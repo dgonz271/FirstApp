@@ -3,7 +3,7 @@ My first android application.
 ## First Application
 
 ### App Description
-This application is a simple android app that displays a text and has a text box above it. The user can input a text if they'd like. There are three buttons under the initial text. The first button changes the inital text to the user's input in the text box. If they do not enter anything, the button will change the text to the inital text. The second button changes the background color, however it only changes it once. The last button changes the text color, and only changes it once. Clicking on the background will reset the screen to its initial state.
+This application is a simple android app that displays a text and has a text box above it. The user can input a text if they'd like. There are three buttons under the initial text. The first button changes the initial text to the user's input in the text box. If they do not enter anything, the button will change the text to the initial text. The second button changes the background color, however, it only changes it once. The last button changes the text color and only changes it once. Clicking on the background will reset the screen to its initial state.
 
 ### App Walk-through
 <img src="http://recordit.co/eUWJUahomC" width=200><br>
